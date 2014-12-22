@@ -1,0 +1,7 @@
+name: SRL-6-Plugins
+description: SRL Resource Library - Plugins Package
+repo: github:SRL/SRL-Plugins
+branch: master
+files: *
+requires: plugin/SRL-6
+target: Plugins/
