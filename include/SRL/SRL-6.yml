@@ -2,6 +2,6 @@ name: SRL-6
 description: SRL Resource Library
 repo: github:SRL/SRL-6
 branch: master
-files: *
+files:
+  *: Includes/SRL-6
 requires: plugin/SRL-6
-target: Includes/SRL-6
