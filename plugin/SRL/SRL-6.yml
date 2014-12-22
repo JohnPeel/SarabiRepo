@@ -2,6 +2,8 @@ name: SRL-6-Plugins
 description: SRL Resource Library - Plugins Package
 repo: github:SRL/SRL-Plugins
 branch: master
-files: *
+files:
+  extensions/*: Extensions/
+  folders/tessdata/*: Includes/SRL-6/lib/tess/
+  plugins/*: Plugins/
 requires: plugin/SRL-6
-target: Plugins/
