@@ -6,4 +6,4 @@ files:
   extensions/*: Extensions/
   folders/tessdata/*: tessdata/
   plugins/*: Plugins/
-requires: plugin/SRL-6
+requires:
