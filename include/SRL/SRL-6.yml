@@ -4,4 +4,4 @@ repo: github:SRL/SRL-6
 branch: master
 files:
   *: Includes/SRL-6
-requires: plugin/SRL-6
+depends: plugin/SRL-6
