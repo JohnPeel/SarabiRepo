@@ -1,9 +1,8 @@
 name: SRL-6-Plugins
 description: SRL Resource Library - Plugins Package
-repo: github:SRL/SRL-Plugins
-branch: master
+uri: github:SRL/SRL-Plugins
 files:
-  extensions/*: Extensions/
-  folders/tessdata/*: tessdata/
-  plugins/*: Plugins/
+  extensions: Extensions/
+  folders/tessdata: tessdata/
+  plugins: Plugins/
 depends:
