@@ -3,4 +3,5 @@ description: SRL Resource Library
 uri: github:SRL/SRL-6
 files:
   .: Includes/SRL-6
+  extensions: Extensions/
 depends: plugin/SRL-6
